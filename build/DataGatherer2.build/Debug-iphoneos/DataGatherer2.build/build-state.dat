@@ -1,0 +1,1037 @@
+TDataGatherer2
+v7
+r0
+t329227129.613298
+cCheck dependencies
+cCpResource build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Info.plist" DataGatherer2-Info.plist
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib"
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib"
+cCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MyIcon2.png" MyIcon2.png
+cCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Default.png" Default.png
+cProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld"
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer" normal armv6
+cCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer" normal armv7
+cCreateUniversalBinary "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer"
+cProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+cTouch "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent"
+cCodeSign "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004CC11B62000000000010D080
+t1287723874
+s1101952
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004CC11B5400000000000001CB
+t1287723860
+s459
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC1106800000000000000EB
+t1287721064
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D2640000000000303FF0
+t1297404516
+s3162096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D243000000000000046B
+t1297404483
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D5DE7AF00000000000FD4D0
+t1297999791
+s1037520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D5DE7A400000000000001D0
+t1297999780
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004D5DE7C4000000000011FAB0
+t1297999812
+s1178288
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004D5DE7AF00000000000001CB
+t1297999791
+s459
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D32C00000000000000EB
+t1297404716
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D32D0000000000094C50
+t1297404717
+s609360
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.h
+c000000004D7FC4670000000000000B94
+t1300218983
+s2964
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m
+c000000004E31A15A0000000000007B05
+t1311875418
+s31493
+i"CamViewController.h"
+i"MobileCoreServices/MobileCoreServices.h"
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib
+c000000004D7F44B9000000000000A56F
+t1300186297
+s42351
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.h
+c000000004D46862A000000000000042B
+t1296467498
+s1067
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"CamViewController.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m
+c000000004D5C6076000000000000284D
+t1297899638
+s10317
+i"DataGatherer2AppDelegate.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld
+c000000004D4687FC00000000000000CC
+t1296467964
+s204
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m
+c000000004D1DD4C6000000000000013E
+t1293800646
+s318
+i"Event.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.h
+c000000004D4687FC00000000000003D6
+t1296467964
+s982
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m
+c000000004D4687FC00000000000001F6
+t1296467964
+s502
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch
+c000000004D1DD411000000000000016E
+t1293800465
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Default.png
+c000000004D564A93000000000007A038
+t1297500819
+s499768
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib
+c000000004D1DD41100000000000021E9
+t1293800465
+s8681
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon.png
+c000000004D2188F00000000000000548
+t1294043376
+s1352
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon2.png
+c000000004D218ED600000000000005AE
+t1294044886
+s1454
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent
+t1307534324
+s430
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent
+t1297500446
+s432
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/CamViewController.o
+t1307534323
+s144508
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer
+t1307534323
+s70048
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer.LinkFileList
+c000000004D5701A90000000000000283
+t1297547689
+s643
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2
+t1297500446
+s59352
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2.LinkFileList
+c000000004D2AE1540000000000000283
+t1294655828
+s643
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2AppDelegate.o
+t1307534322
+s62352
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event.o
+t1293801854
+s5688
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event2.o
+t1307534322
+s5928
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/main.o
+t1307534322
+s6496
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/CamViewController.o
+t1307534324
+s141948
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer
+t1307534324
+s65932
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer.LinkFileList
+c000000004D5701A90000000000000283
+t1297547689
+s643
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2
+t1297500446
+s59028
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2.LinkFileList
+c000000004D2AE1540000000000000283
+t1294655828
+s643
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2AppDelegate.o
+t1307534322
+s62236
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event.o
+t1293801855
+s5688
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event2.o
+t1307534324
+s5928
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/main.o
+t1307534322
+s6480
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app
+t1307534329
+s476
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app.dSYM
+t1307534324
+s102
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/CamViewController.nib
+t1307534296
+s5985
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer
+t1307534324
+s154000
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd
+t1297547713
+s136
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Default.png
+t1307534318
+s400405
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Info.plist
+t1307534291
+s926
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MainWindow.nib
+t1307534294
+s1537
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MyIcon2.png
+t1307534297
+s1113
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/PkgInfo
+t1307534291
+s8
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist
+t1307534291
+s485
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision
+t1307534324
+s7155
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app
+t1297500694
+s510
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app.dSYM
+t1297500446
+s102
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/CamViewController.nib
+t1297500691
+s3216
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2
+t1297500446
+s134784
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2.momd
+t1296468103
+s136
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Default.png
+t1294051087
+s351562
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Info.plist
+t1296434208
+s872
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MainWindow.nib
+t1293801851
+s990
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon.png
+t1294045193
+s1068
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon2.png
+t1294045193
+s1113
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/PkgInfo
+t1296434208
+s8
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/ResourceRules.plist
+t1293801849
+s485
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision
+t1297500446
+s7182
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m
+c000000004D1DD4110000000000000174
+t1293800465
+s372
+i<UIKit/UIKit.h>
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision
+c000000004D0CB21C0000000000001C0E
+t1292677660
+s7182
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision
+c000000004D2E0FB20000000000001C06
+t1294864306
+s7174
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/96159038-71F2-41C3-8E8A-381AB716D38B.mobileprovision
+c000000004D5B42980000000000001C04
+t1297826456
+s7172
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision
+c000000004DE4E2490000000000001BF3
+t1306845769
+s7155
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/E0970066-3B93-43CA-A728-96F5B945257E.mobileprovision
+c000000004D87B2380000000000001BFF
+t1300738616
+s7167
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch.gch
+t1307534321
+s10746456
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch.gch
+t1307534321
+s11205208
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-gtvzgnpudhtrmmbaslmuxrhewuyp/DataGatherer2_Prefix.pch.gch
+t1297547713
+s11004308
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-hgiqapnsdvkcgdadmiyfcntziddf/DataGatherer2_Prefix.pch.gch
+t1297547713
+s10545556
+
+NDataGatherer2-Info.plist
+c000000004D4603E000000000000003FC
+t1296434144
+s1020
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329227091#329227091#0(0"0(0#1#0"8603825504#0"0#
+
+CCodeSign "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"
+s329227124.566388
+e329227129.613051
+r1
+xCodeSign
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/DataGatherer.app329227124#329227129#0(0"0(0#0#100"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app8622064640#783"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Sergio Contreras (ETX6722D8P)" "--resource-rules=/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist" --entitlements "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"0#
+
+CCodeSign "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app"
+s319193491.229974
+e319193494.206905
+r1
+xCodeSign
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app: replacing existing signature
+lSLF07#2@47"CodeSign build/Debug-iphoneos/DataGatherer2.app319193491#319193494#0(132"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app: replacing existing signature0(0#0#101"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app8612418848#786"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Sergio Contreras (ETX6722D8P)" "--resource-rules=/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/ResourceRules.plist" --entitlements "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329227122.135491
+e329227123.682722
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/CamViewController.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m329227122#329227123#0(0"0(0#0#82"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m8607491264#2152"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/CamViewController.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329227121.910662
+e329227122.352707
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2AppDelegate.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m329227121#329227122#0(0"0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m8622719808#2174"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2AppDelegate.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315494654.511449
+e315494654.658904
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m315494654#315494654#0(0"0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m8632540704#2159"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-hgiqapnsdvkcgdadmiyfcntziddf/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329227122.352917
+e329227122.513511
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event2.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m329227122#329227122#0(0"0(0#0#98"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m8624216096#2157"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/Event2.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329227121.907331
+e329227122.135272
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/main.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m329227121#329227122#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m8626376960#2126"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329227122.988296
+e329227124.023673
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/CamViewController.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m329227122#329227124#0(0"0(0#0#82"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m8621667488#2152"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/CamViewController.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329227122.660872
+e329227122.988079
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2AppDelegate.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m329227122#329227123#0(0"0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m8603216384#2174"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2AppDelegate.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315494655.153780
+e315494655.303574
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m315494655#315494655#0(0"0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m8629561536#2159"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-gtvzgnpudhtrmmbaslmuxrhewuyp/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329227124.019359
+e329227124.148738
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event2.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m329227124#329227124#0(0"0(0#0#98"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m8626847104#2157"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/Event2.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329227122.513842
+e329227122.660661
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/main.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m329227122#329227122#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m8614504608#2126"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib"
+s329227091.822423
+e329227096.925406
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB CamViewController.xib329227091#329227096#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib8629203456#639"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/CamViewController.nib" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib"
+s329227091.820305
+e329227095.139023
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329227091#329227095#0(0"0(0#0#77"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib32088581144182900#625"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MainWindow.nib" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Default.png" Default.png
+s329227096.925694
+e329227118.531450
+r1
+xCopyPNGFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Default.png
+xDefault.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/DataGatherer.app/Default.png Default.png329227096#329227118#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Default.png8606339360#545"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Default.png" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Default.png"0#
+
+CCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MyIcon2.png" MyIcon2.png
+s329227095.139401
+e329227097.386491
+r1
+xCopyPNGFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MyIcon2.png
+xMyIcon2.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/DataGatherer.app/MyIcon2.png MyIcon2.png329227095#329227097#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon2.png8623765184#545"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon2.png" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/MyIcon2.png"0#
+
+CCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Default.png" Default.png
+s315743869.586468
+e315743887.259559
+r1
+xCopyPNGFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Default.png
+xDefault.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/DataGatherer2.app/Default.png Default.png315743869#315743887#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Default.png8624629920#646"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Default.png" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Default.png"0#
+
+CCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon.png" MyIcon.png
+s315737993.103117
+e315737993.336589
+r1
+xCopyPNGFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon.png
+xMyIcon.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/DataGatherer2.app/MyIcon.png MyIcon.png315737993#315737993#0(0"0(0#0#73"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon.png8614109696#644"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon.png" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon.png"0#
+
+CCopyPNGFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon2.png" MyIcon2.png
+s315737993.105447
+e315737993.305330
+r1
+xCopyPNGFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon2.png
+xMyIcon2.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/DataGatherer2.app/MyIcon2.png MyIcon2.png315737993#315737993#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon2.png8601117216#646"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MyIcon2.png" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/MyIcon2.png"0#
+
+CCpResource build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s319240489.691919
+e319240489.733554
+r1
+xCpResource
+xbuild/Debug-iphoneos/DataGatherer.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist319240489#319240489#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist5994135409057033216#551"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"0#
+
+CCpResource build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s329227091.606169
+e329227091.820110
+r1
+xCpResource
+xbuild/Debug-iphoneos/DataGatherer.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist329227091#329227091#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8603874912#551"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"0#
+
+CCpResource build/Debug-iphoneos/DataGatherer2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s315494649.662491
+e315494649.808637
+r1
+xCpResource
+xbuild/Debug-iphoneos/DataGatherer2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist315494649#315494649#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8627909824#552"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app"0#
+
+CCreateUniversalBinary "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer" normal "armv6 armv7"
+s329227124.323991
+e329227124.349299
+r1
+xCreateUniversalBinary
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/DataGatherer.app/DataGatherer normal "armv6 armv7"329227124#329227124#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/armv6 armv78603345632#666"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer" -output "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer"0#
+
+CCreateUniversalBinary "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2" normal "armv6 armv7"
+s319193246.421358
+e319193246.477197
+r1
+xCreateUniversalBinary
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/DataGatherer2.app/DataGatherer2 normal "armv6 armv7"319193246#319193246#0(0"0(0#0#74"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/armv6 armv78598797120#670"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2" -output "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2"0#
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld"
+s319240513.739224
+e319240513.911311
+r1
+xDataModelVersionCompile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld
+lSLF07#2@107"DataModelVersionCompile build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd DataGatherer2.xcdatamodeld319240513#319240513#0(0"0(0#0#89"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld8606080448#438"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer2.momd"0#
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2.momd" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld"
+s318160903.643871
+e318160903.928368
+r1
+xDataModelVersionCompile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2.momd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld
+lSLF07#2@108"DataModelVersionCompile build/Debug-iphoneos/DataGatherer2.app/DataGatherer2.momd DataGatherer2.xcdatamodeld318160903#318160903#0(0"0(0#0#89"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld8631186656#439"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2.momd"0#
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer"
+s329227124.349500
+e329227124.490503
+r1
+xGenerateDSYMFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app.dSYM
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/DataGatherer.app.dSYM build/Debug-iphoneos/DataGatherer.app/DataGatherer329227124#329227124#0(0"0(0#0#113"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer8601170496#455"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/DataGatherer" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2"
+s319193246.477395
+e319193246.705773
+r1
+xGenerateDSYMFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app.dSYM
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/DataGatherer2.app.dSYM build/Debug-iphoneos/DataGatherer2.app/DataGatherer2319193246#319193246#0(0"0(0#0#115"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer28603322400#458"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/DataGatherer2" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app.dSYM"0#
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer" normal armv6
+s329227123.683110
+e329227124.019131
+r1
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer
+xnormal
+xarmv6
+lSLF07#2@162"Link /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer329227123#329227124#0(0"0(0#0#0"8622947808#1119"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework CoreMotion -framework MobileCoreServices -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer"0#
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2" normal armv6
+s319193245.123929
+e319193246.324676
+r1
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2
+xnormal
+xarmv6
+lSLF07#2@163"Link /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2319193245#319193246#0(0"0(0#0#0"8608565408#1121"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework CoreMotion -framework MobileCoreServices -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv6/DataGatherer2"0#
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer" normal armv7
+s329227124.148930
+e329227124.323791
+r1
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer
+xnormal
+xarmv7
+lSLF07#2@162"Link /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer329227124#329227124#0(0"0(0#0#0"8624307712#1119"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework CoreMotion -framework MobileCoreServices -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer"0#
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2" normal armv7
+s319193245.886677
+e319193246.421109
+r1
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2
+xnormal
+xarmv7
+lSLF07#2@163"Link /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2319193245#319193246#0(0"0(0#0#0"8605987392#1121"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -framework CoreMotion -framework MobileCoreServices -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/Objects-normal/armv7/DataGatherer2"0#
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Info.plist" DataGatherer2-Info.plist
+s329227091.628483
+e329227091.768593
+r1
+xProcessInfoPlistFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Info.plist
+xDataGatherer2-Info.plist
+lSLF07#2@32"Process DataGatherer2-Info.plist329227091#329227091#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2-Info.plist8599807712#687"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DataGatherer2-Info.plist -genpkginfo "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/ResourceRules.plist" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Info.plist" DataGatherer2-Info.plist
+s318127008.266026
+e318127008.347485
+r1
+xProcessInfoPlistFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Info.plist
+xDataGatherer2-Info.plist
+lSLF07#2@32"Process DataGatherer2-Info.plist318127008#318127008#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2-Info.plist8629177536#690"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DataGatherer2-Info.plist -genpkginfo "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/ResourceRules.plist" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/Info.plist"0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329227118.531876
+e329227121.686022
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch.gch
+xDataGatherer2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DataGatherer2_Prefix.pch329227118#329227121#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch8605858528#1992"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-aebzavdlyilkxjakqeqjdwixcxrh/DataGatherer2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329227118.534663
+e329227121.906874
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch.gch
+xDataGatherer2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DataGatherer2_Prefix.pch329227118#329227121#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch8603757344#1992"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-bgdzfxvyefaapbfsnqpuqdjzbpgk/DataGatherer2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-gtvzgnpudhtrmmbaslmuxrhewuyp/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s319240510.407130
+e319240513.739013
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-gtvzgnpudhtrmmbaslmuxrhewuyp/DataGatherer2_Prefix.pch.gch
+xDataGatherer2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DataGatherer2_Prefix.pch319240510#319240513#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch8608587264#1992"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-gtvzgnpudhtrmmbaslmuxrhewuyp/DataGatherer2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-hgiqapnsdvkcgdadmiyfcntziddf/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s319240510.404753
+e319240513.495533
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-hgiqapnsdvkcgdadmiyfcntziddf/DataGatherer2_Prefix.pch.gch
+xDataGatherer2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DataGatherer2_Prefix.pch319240510#319240513#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch8609315808#1992"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DerivedSources" -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-hgiqapnsdvkcgdadmiyfcntziddf/DataGatherer2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+s319240515.910321
+e319240515.936007
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision319240515#319240515#0(0"0(0#0#125"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision8605977984#490"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision"
+s319193246.705989
+e319193246.708460
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision
+lSLF07#2@208"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision319193246#319193246#0(0"0(0#0#126"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision8606815840#491"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/180CFD24-9BCA-469A-9D28-C8C490175C3F.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+s321916179.008238
+e321916179.048284
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision321916179#321916179#0(0"0(0#0#125"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision7022344664459209728#490"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision"
+s319118494.685160
+e319118494.726959
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision
+lSLF07#2@208"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision319118494#319118494#0(0"0(0#0#126"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision7022344664459209728#491"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/2AD9D3E3-17C9-4E8F-8FD9-030FC5A72A0C.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/96159038-71F2-41C3-8E8A-381AB716D38B.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+s319519667.612308
+e319519667.718625
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/96159038-71F2-41C3-8E8A-381AB716D38B.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/96159038-71F2-41C3-8E8A-381AB716D38B.mobileprovision" build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision319519667#319519667#0(0"0(0#0#125"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision7022344664459209728#490"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/96159038-71F2-41C3-8E8A-381AB716D38B.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+s329227124.490727
+e329227124.545407
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision" build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision329227124#329227124#0(0"0(0#0#125"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision8599833216#490"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/D1327E2F-148A-45B3-9F33-7DC8306B5B80.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/E0970066-3B93-43CA-A728-96F5B945257E.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent"
+s321916179.052160
+e321916179.082098
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent
+lSLF07#2@192"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent321916179#321916179#0(0"0(0#0#142"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent8607439008#501"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent"
+s319193246.732835
+e319193246.760211
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent319193246#319193246#0(0"0(0#0#143"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent8605887968#502"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer2.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent"
+s329227124.553565
+e329227124.566239
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent
+lSLF07#2@192"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent329227124#329227124#0(0"0(0#0#142"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent8624215392#501"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphoneos/DataGatherer2.build/DataGatherer.xcent"0#
+
+CTouch "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"
+s329227124.545563
+e329227124.553373
+r1
+xTouch
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app
+lSLF07#2@106"Touch /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app329227124#329227124#0(0"0(0#0#0"8627247584#321"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer.app"0#
+
+CTouch "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app"
+s319193491.220971
+e319193491.229584
+r1
+xTouch
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app
+lSLF07#2@107"Touch /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app319193491#319193491#0(0"0(0#0#0"8317411230812697600#322"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphoneos/DataGatherer2.app"0#
+

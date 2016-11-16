@@ -1,0 +1,531 @@
+TDataGatherer2
+v7
+r0
+t315493825.742766
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/Info.plist" DataGatherer2-Info.plist
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib"
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib"
+cProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld"
+cCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/Event.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004CC127E900000000000001CB
+t1287727081
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC122CF00000000000000EB
+t1287725775
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.h
+c000000004D1DC3FF000000000000071B
+t1293796351
+s1819
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m
+c000000004D1DD3B2000000000000334F
+t1293800370
+s13135
+i"CamViewController.h"
+i"MobileCoreServices/MobileCoreServices.h"
+i"Event.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib
+c000000004D1DC4B800000000000089B9
+t1293796536
+s35257
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.h
+c000000004D1DD63C00000000000003A2
+t1293801020
+s930
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m
+c000000004D1DD60D00000000000022CC
+t1293800973
+s8908
+i"DataGatherer2AppDelegate.h"
+i"CamViewController.h"
+i"Event.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld
+c000000004D1DD4CF00000000000000CC
+t1293800655
+s204
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.h
+c000000004D1DD4C6000000000000023F
+t1293800646
+s575
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m
+c000000004D1DD4C6000000000000013E
+t1293800646
+s318
+i"Event.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch
+c000000004D1DD411000000000000016E
+t1293800465
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib
+c000000004D1DD41100000000000021E9
+t1293800465
+s8681
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/CamViewController.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2.LinkFileList
+c000000004D1DD63D000000000000029A
+t1293801021
+s666
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2AppDelegate.o
+t1293801025
+s61524
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/Event.o
+t1293801025
+s5452
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/main.o
+t1293801025
+s6352
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app.dSYM
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/CamViewController.nib
+t1293801022
+s2969
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd
+t1293801025
+s136
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/Info.plist
+t1293801021
+s615
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/MainWindow.nib
+t1293801022
+s990
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/PkgInfo
+t1293801021
+s8
+
+N/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m
+c000000004D1DD4110000000000000174
+t1293800465
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch.gch
+t1293801024
+s16326640
+
+NDataGatherer2-Info.plist
+c000000004D1DD411000000000000038D
+t1293800465
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315493820#315493821#0(0"0(0#1#0"8630230752#0"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315493825.493051
+e315493825.742616
+r0
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/CamViewController.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m: In function '-[CamViewController start_recording:]':
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m:214: error: too many arguments to function 'URLByAppendingPathComponent:'
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m:214: error: too many arguments to function 'URLByAppendingPathComponent:'
+o{standard input}:678:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"
+o{standard input}:678:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:674:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000006$pb"
+o{standard input}:674:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:666:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:666:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:660:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:660:symbol: "L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:653:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:653:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:647:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:647:symbol: "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:634:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:634:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:627:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:627:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:621:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:621:symbol: "L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:614:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:614:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:608:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:608:symbol: "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:601:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:601:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:595:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:595:symbol: "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:588:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:588:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:582:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:582:symbol: "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:575:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:575:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:569:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:569:symbol: "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:562:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:562:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:556:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:556:symbol: "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:549:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:549:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:543:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:543:symbol: "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:536:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:536:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:530:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:530:symbol: "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:502:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:502:symbol: "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:495:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:495:symbol: "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:488:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:488:symbol: "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:481:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:481:symbol: "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:474:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:474:symbol: "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:467:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:467:symbol: "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:460:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:460:symbol: "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:453:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000005$pb"
+o{standard input}:453:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:449:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"
+o{standard input}:449:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000004$pb"
+o{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:416:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000004$pb"
+o{standard input}:416:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:369:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:369:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:363:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:363:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:341:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
+o{standard input}:341:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:336:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:336:symbol: "L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:329:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:329:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:321:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
+o{standard input}:321:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:314:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:314:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:294:non-relocatable subtraction expression, "L_kUTTypeMovie$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:294:symbol: "L_kUTTypeMovie$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:288:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:285:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:285:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:271:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:271:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:265:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:265:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:233:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:233:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:229:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+o{standard input}:229:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:195:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:195:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:192:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:192:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:186:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:186:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:178:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:178:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:175:non-relocatable subtraction expression, "L_kCLDistanceFilterNone$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:175:symbol: "L_kCLDistanceFilterNone$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:169:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:154:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:154:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:137:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+o{standard input}:137:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:132:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:132:symbol: "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:124:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:124:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:115:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:115:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:110:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:95:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:95:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:80:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:80:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_kCLDistanceFilterNone$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_kUTTypeMovie$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+lSLF07#2@90"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m315493825#315493825#0(23384"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m: In function '-[CamViewController start_recording:]':/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m:214: error: too many arguments to function 'URLByAppendingPathComponent:'/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m:214: error: too many arguments to function 'URLByAppendingPathComponent:'{standard input}:678:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"{standard input}:678:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:674:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000006$pb"{standard input}:674:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:666:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:666:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:660:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr" minus "L00000000006$pb"{standard input}:660:symbol: "L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:653:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:653:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:647:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" minus "L00000000006$pb"{standard input}:647:symbol: "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:634:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000006$pb"{standard input}:634:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:627:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:627:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:621:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr" minus "L00000000006$pb"{standard input}:621:symbol: "L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:614:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:614:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:608:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" minus "L00000000006$pb"{standard input}:608:symbol: "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:601:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:601:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:595:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" minus "L00000000006$pb"{standard input}:595:symbol: "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:588:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:588:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:582:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" minus "L00000000006$pb"{standard input}:582:symbol: "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:575:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:575:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:569:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" minus "L00000000006$pb"{standard input}:569:symbol: "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:562:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:562:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:556:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" minus "L00000000006$pb"{standard input}:556:symbol: "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:549:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:549:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:543:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" minus "L00000000006$pb"{standard input}:543:symbol: "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:536:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:536:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:530:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" minus "L00000000006$pb"{standard input}:530:symbol: "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:502:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" minus "L00000000005$pb"{standard input}:502:symbol: "L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:495:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" minus "L00000000005$pb"{standard input}:495:symbol: "L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:488:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" minus "L00000000005$pb"{standard input}:488:symbol: "L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:481:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" minus "L00000000005$pb"{standard input}:481:symbol: "L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:474:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" minus "L00000000005$pb"{standard input}:474:symbol: "L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:467:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" minus "L00000000005$pb"{standard input}:467:symbol: "L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:460:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" minus "L00000000005$pb"{standard input}:460:symbol: "L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:453:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000005$pb"{standard input}:453:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:449:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"{standard input}:449:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000004$pb"{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:416:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000004$pb"{standard input}:416:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:369:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:369:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:363:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:363:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:341:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:341:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:336:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr" minus "L00000000003$pb"{standard input}:336:symbol: "L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:329:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:329:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:321:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:321:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:314:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:314:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:294:non-relocatable subtraction expression, "L_kUTTypeMovie$non_lazy_ptr" minus "L00000000003$pb"{standard input}:294:symbol: "L_kUTTypeMovie$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:288:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:288:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:285:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:285:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:271:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:271:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:265:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:265:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:233:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:233:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:229:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"{standard input}:229:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:195:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:195:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:192:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L00000000001$pb"{standard input}:192:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:186:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:186:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:178:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:178:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:175:non-relocatable subtraction expression, "L_kCLDistanceFilterNone$non_lazy_ptr" minus "L00000000001$pb"{standard input}:175:symbol: "L_kCLDistanceFilterNone$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:169:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:154:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:154:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:137:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"{standard input}:137:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:132:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:132:symbol: "L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:124:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:124:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:115:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" minus "L00000000001$pb"{standard input}:110:symbol: "L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:95:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:95:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:80:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:80:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.location_manager$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.motion_manager$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_kCLDistanceFilterNone$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_kUTTypeMovie$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.CustomView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_one$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_two$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_three$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_four$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_five$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_six$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.label_seven$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.my_ipc$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CamViewController.string_From_Date$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_212(4@61"Too many arguments to function 'URLByAppendingPathComponent:'315493825#137#157#0(6@82"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m315493170#214#0#214#0#0"0(4@61"Too many arguments to function 'URLByAppendingPathComponent:'315493825#294#157#0(6@82"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m315493170#214#0#214#0#0"0(0#0#82"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m8626427168#2346"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/CamViewController.o"1#
+
+CCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2AppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315493825.257794
+e315493825.527981
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2AppDelegate.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m:247: warning: incomplete implementation of class 'DataGatherer2AppDelegate'
+o/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m:247: warning: method definition for '-saveContext' not found
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m315493825#315493825#0(333"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m:247: warning: incomplete implementation of class 'DataGatherer2AppDelegate'/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m:247: warning: method definition for '-saveContext' not found2(22@61"Incomplete implementation of class 'DataGatherer2AppDelegate'315493825#0#174#0(6@97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m315493773#247#0#247#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-saveContext' not found315493825#174#159#0(6@97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m315493773#247#0#247#0#35"method definition for '*' not found0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m8635152416#2368"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/Classes/DataGatherer2AppDelegate.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/DataGatherer2AppDelegate.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/Event.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315493825.346186
+e315493825.492827
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/Event.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m315493825#315493825#0(0"0(0#0#97"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m8631942528#2349"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/Event.o"0#
+
+CCompileC build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/main.o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315493825.083541
+e315493825.257587
+r1
+xCompileC
+xbuild/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/main.o
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m315493825#315493825#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m8637416960#2320"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources" -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/main.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib"
+s315493821.173523
+e315493823.017107
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB CamViewController.xib315493821#315493823#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib8624996896#668"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/CamViewController.nib" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/CamViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib"
+s315493821.171736
+e315493822.830805
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315493821#315493822#0(0"0(0#0#77"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib8626338848#654"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/MainWindow.nib" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld"
+s315493825.081348
+e315493825.345976
+r1
+xDataModelVersionCompile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld
+lSLF07#2@115"DataModelVersionCompile build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd DataGatherer2.xcdatamodeld315493825#315493825#0(0"0(0#0#89"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld8637753920#482"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2.momd"0#
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2"
+r0
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/DataGatherer2" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/Info.plist" DataGatherer2-Info.plist
+s315493821.165882
+e315493821.171531
+r1
+xProcessInfoPlistFile
+x/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/Info.plist
+xDataGatherer2-Info.plist
+lSLF07#2@32"Process DataGatherer2-Info.plist315493821#315493821#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2-Info.plist8625924160#575"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DataGatherer2-Info.plist -genpkginfo "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app/Info.plist"0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch.gch DataGatherer2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315493823.017351
+e315493825.081045
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch.gch
+xDataGatherer2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DataGatherer2_Prefix.pch315493823#315493825#0(0"0(0#0#87"/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch8638554560#2180"    cd "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DataGatherer2-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/DataGatherer2.build/Debug-iphonesimulator/DataGatherer2.build/DerivedSources" -c "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DataGatherer2_Prefix-codpfvzjmwesqndrgyovpieerwjv/DataGatherer2_Prefix.pch.gch0#
+
+CTouch "/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/build/Debug-iphonesimulator/DataGatherer2.app"
+r0
+

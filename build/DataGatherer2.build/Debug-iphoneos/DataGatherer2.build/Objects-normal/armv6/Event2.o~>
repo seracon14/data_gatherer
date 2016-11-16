@@ -1,0 +1,2 @@
+/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m:27: warning: property 'location' requires method '-location' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/sergiocontreras/Documents/Iphone Programs/DataGatherer2/DataGatherer2.xcdatamodeld/Event2.m:27: warning: property 'location' requires the method 'setLocation:' to be defined - use @synthesize, @dynamic or provide a method implementation
